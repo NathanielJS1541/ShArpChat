@@ -28,3 +28,7 @@ ShArpChat/                   - Main repository folder
 
 ## Inspiration
 I wanted an excuse to use MAUI for something... Yeah that's pretty much it.
+
+## Notes
+### Platform Compatability
+While I will do my best to keep the library and app as cross-platform as possible, Apple's toolchain restrictions effectively mean I won't be able to build the app at all for iOS / MacCatalyst. Therefore I will not be able to do any testing for Apple's platforms. If you'd like those platforms to work you can fix them and PR the work yourself if you have the hardware for it :).
