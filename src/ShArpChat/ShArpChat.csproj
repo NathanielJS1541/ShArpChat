@@ -26,6 +26,7 @@
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>ARP; chat; messaging;</PackageTags>
 		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+		<PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
 	</PropertyGroup>
 
 	<ItemGroup>
